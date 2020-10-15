@@ -1,0 +1,38 @@
+/* CSS Document */
+.arrStyle{
+	float:left;
+	line-height:50px;
+	width:50px;
+	height:50px;
+	text-align:center;
+	background-color: #4CBB48;
+	margin-left: 5px;
+	margin-top:5px;
+	margin-bottom:5px;
+}
+.kq{
+	width:100%;
+	line-height:50px;
+}
+.form1{
+	
+	margin-top:20px;
+	width:100%;
+	clear:both;
+	
+}
+.form2{
+	
+	margin-top:20px;
+	width:100%;
+	clear:both;
+	
+}
+.form1>div{
+	width : 90%;
+	height:50px;
+	border:1px solid green;
+	margin:1%;
+	background:#BFE5D4;
+	}
+
